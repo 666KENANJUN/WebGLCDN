@@ -1,0 +1,12 @@
+{
+	"ForceUpdateGame":false,
+	"LatestGameVersion":"0.1.0",
+	"InternalGameVersion":1,
+	"InternalResourceVersion":1,
+	"UpdatePrefixUri":"https://cdn.jsdelivr.net/gh/666KENANJUN/WebGLCDN@1.0/WebGL",
+	"VersionListLength":6226,
+	"VersionListHashCode":1172757980,
+	"VersionListCompressedLength":2356,
+	"VersionListCompressedHashCode":357432175,
+	"END_OF_JSON": ""
+}
